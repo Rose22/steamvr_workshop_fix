@@ -8,9 +8,13 @@ steamdata = {
     "loginsecure": "placeholder"
 }
 
-ids = """
+ids_s = """
+your
+id's
+here
+"""
 
-""".strip().split("\n")
+ids = ids_s.strip().split("\n")
 
 # -----------
 
